@@ -1,2 +1,2 @@
 # DS_ASSIGNMENTS
-This repository having theory of programs and assignments
+This repository having theory of programming and assignments
